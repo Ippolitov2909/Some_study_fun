@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591116641 source:c:\users\Владимир\documents\кодблокс\thread_pi\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<thread>
+	<string>
+

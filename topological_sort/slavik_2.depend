@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1590688348 source:c:\users\Владимир\documents\кодблокс\slavik_2\main.cpp
+	<iostream>
+	<set>
+	<string>
+	<map>
+	<sstream>
+	<vector>
+	<cctype>
+

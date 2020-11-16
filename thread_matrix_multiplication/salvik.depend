@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590063277 source:c:\users\Владимир\documents\кодблокс\salvik\main.cpp
+	<thread>
+	<vector>
+	<ctime>
+	<cstring>
+	<iostream>
+

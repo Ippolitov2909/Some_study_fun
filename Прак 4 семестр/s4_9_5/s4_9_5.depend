@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589699832 source:c:\users\Владимир\documents\кодблокс\s4_9_5\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<set>
+	<sstream>
+

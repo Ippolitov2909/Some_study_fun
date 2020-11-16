@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1587308954 source:c:\users\Владимир\documents\кодблокс\s4_5_3\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<vector>
+	<string.h>
+	<sstream>
+	<algorithm>
+

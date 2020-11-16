@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583068083 source:c:\users\Владимир\documents\кодблокс\s4_1_4\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
