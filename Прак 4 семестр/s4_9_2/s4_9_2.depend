@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1589546549 source:c:\users\Владимир\documents\кодблокс\s4_9_2\main.cpp
-	<iostream>
-	<string>
-	<sstream>
-	<map>
-	<utility>
-
